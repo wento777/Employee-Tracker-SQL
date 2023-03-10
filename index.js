@@ -28,8 +28,8 @@ inquirer
   .prompt([
     {
       type: 'list',
-      message: 'What is your user name?',
-      name: 'username',
+      message: 'What would you like to do?',
+      name: 'Menu ',
     },
     {
       type: 'password',
