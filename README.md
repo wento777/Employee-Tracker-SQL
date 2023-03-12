@@ -94,8 +94,13 @@ THEN I am presented with a formatted table showing department names and departme
   ## This project has been deployed to GitHub, here is the link:
 
   * 
-  ## Note-Taker-Express.js Screenshots
  
+ 
+ 
+ 
+ ## A walkthrough video demonstrating the functionality of the application
+ 
+ * https://drive.google.com/file/d/1MVVUMDqLNjcEUNF7aZsMLgK9yATcBSfN/view 
 
 
 ## Summary
