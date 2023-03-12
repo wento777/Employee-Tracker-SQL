@@ -10,7 +10,6 @@
 
 
 -  Developers frequently have to create interfaces that allow non-developers to easily view and interact with information stored in databases. These interfaces are called content management systems (CMS). Your assignment this week is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
-- 
 
 - Testing is key to making code maintainable, you’ll also write unit tests for each part of your code and ensure that it passes all of them.
 
@@ -93,8 +92,7 @@ THEN I am presented with a formatted table showing department names and departme
 
   ## This project has been deployed to GitHub, here is the link:
 
-  * 
-  ## Note-Taker-Express.js Screenshots
+  *
  
 
 
