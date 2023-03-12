@@ -92,8 +92,18 @@ THEN I am presented with a formatted table showing department names and departme
 
   ## This project has been deployed to GitHub, here is the link:
 
+<<<<<<< HEAD
   *
+=======
+  * 
+>>>>>>> 8a881fccf5f7f4c7c2be3016f0b674e4058b1793
  
+ 
+ 
+ 
+ ## A walkthrough video demonstrating the functionality of the application
+ 
+ * https://drive.google.com/file/d/1MVVUMDqLNjcEUNF7aZsMLgK9yATcBSfN/view 
 
 
 ## Summary
