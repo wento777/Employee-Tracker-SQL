@@ -92,11 +92,6 @@ THEN I am presented with a formatted table showing department names and departme
 
   ## This project has been deployed to GitHub, here is the link:
 
-<<<<<<< HEAD
-  *
-=======
-  * 
->>>>>>> 8a881fccf5f7f4c7c2be3016f0b674e4058b1793
  
  
  
