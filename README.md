@@ -93,7 +93,7 @@ THEN I am presented with a formatted table showing department names and departme
   ## This project has been deployed to GitHub, here is the link:
 
  
- 
+ *  https://github.com/wento777/Employee-Tracker-SQL/blob/main/README.md
  
  
  ## A walkthrough video demonstrating the functionality of the application
